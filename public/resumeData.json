@@ -1,0 +1,157 @@
+{
+  "main": {
+    "name": "Parisa Talebi",
+    "occupation": "FrontEnd Developer",
+    "description": "I eat, sleep and breathe Angular and React",
+    "image": "",
+    "bio": "Hi there! I am a Front-end developer with about three years of work and learning, I started programming in the field of front-end by completing an internship at Afarinesh company for three months, and after that I started working in the company. Currently I work in hamrahLotus company.",
+    "email": "parisatalebi25@gmail.com",
+    "phone": "",
+    "address": {
+      "street": "",
+      "city": "Tehran",
+      "state": "",
+      "zip": ""
+    },
+    "website": "",
+    "resumedownload": "",
+    "social": [
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/parisa-talebi-0432941bb/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/pari3266",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "My Programming Language Proficiency",
+    "education": [
+      {
+        "school": "zanjan university",
+        "degree": "Bachelor's Degree, computer software engineering",
+        "graduated": "Jun 2020",
+        "description": ""
+      }
+    ],
+    "work": [
+      {
+        "company": "HamrahLotus",
+        "title": "FrontEnd developer",
+        "years": "May 2023 - Present",
+        "description": "Credit allocation and wallet management system for employees of organizations, with customers like ewano, http://app.vee.ir/, https://vee.ir/"
+      },
+      {
+        "company": "Self-employed",
+        "title": "FrontEnd developer",
+        "years": "Apr 2021 - Jul 2022",
+        "description": "Studying and learning React and Angular and writing practice projects.I read these technologies in this period of time"
+      },
+      {
+        "company": "Arshin",
+        "title": "FrontEnd developer",
+        "years": "May 2023 - Present",
+        "description": "Fleet transportation management website"
+      },
+      {
+        "company": "Afarinesh",
+        "title": "Intern & FrontEnd developer",
+        "years": "Jun 2020- Mar 2021",
+        "description": "Behkhan (book social network)"
+      }
+    ],
+    "skills": [
+      {"name": "Html" , "level": "80%"},
+      {"name": "css" , "level": "70%"},
+      {"name": "js" , "level": "30%"},
+      {"name": "ts" , "level": "60%"},
+      {"name": "angular" , "level": "70%"},
+      {"name": "Angular material" , "level": "80%"},
+      {"name": "Bootstrap" , "level": "70%"},
+      {"name": "flex" , "level": "80%"},
+      {"name": "Pwa" , "level": "60%"},
+      {"name": "Web socket" , "level": "50%"},
+      {"name": "Google maps , google chart" , "level": "70%"},
+      {"name": "RxJs" , "level": "70%"},
+      {"name": "NgRx" , "level": "40%"},
+      {"name": "NgXs" , "level": "60%"},
+      {"name": "Git" , "level": "50%"},
+      {"name": "primeNg" , "level": "60%"},
+      {"name": "primeFlex" , "level": "60%"},
+      {"name": "React" , "level": "50%"},
+      {"name": "Nextjs" , "level": "50%"}
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "vee app",
+        "category": "",
+        "image": "/images/vee.png",
+        "url": "http://app.vee.ir/"
+      },
+      {
+        "title": "hamrahlotus",
+        "category": "",
+        "image": "/images/hamrahlotus.png",
+        "url": "http://hamrahlotus.ir/"
+      },
+      {
+        "title": "hampa admin panel",
+        "category": "",
+        "image": "/images/adminPanel.png",
+        "url": ""
+      },
+      {
+        "title": "Fleet transportation management website",
+        "category": "",
+        "image": "/images/fms.png",
+        "url": "https://fms.arshinco.com/"
+      }
+      ,
+      {
+        "title": "Personal car management website",
+        "category": "",
+        "image": "/images/noimage-1.png",
+        "url": "https://foxen.arshinco.com/"
+      }
+      ,
+      {
+        "title": "fms admin management website",
+        "category": "",
+        "image": "/images/noimage-1.png",
+        "url": ""
+      }
+      ,
+      {
+        "title": "Behkhan",
+        "category": "",
+        "image": "/images/behkhan.png",
+        "url": "https://behkhaan.ir/"
+      }
+      ,
+      {
+        "title": "Admin management website of Behkhan",
+        "category": "",
+        "image": "/images/noimage-1.png",
+        "url": ""
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "",
+        "user": ""
+      },
+      {
+        "text": "",
+        "user": ""
+      }
+    ]
+  }
+}
